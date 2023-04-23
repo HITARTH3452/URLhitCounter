@@ -1,16 +1,16 @@
-#URLhitCounter
----
-##Framework and Language Used
----
-*Spring boot
-*Java
----
-##Controller
----
-*Hitcontroller
----
-##Data structure used
-*HashMap
----
-##Project Summary
-*n this project , where visitor hit on url it's count increase by 1.So we find how many times visitor comes to url.
+# URLhitCounter
+
+## Framework and Language Used
+
+* Spring boot
+* Java
+
+## Controller
+
+* Hitcontroller
+
+## Data structure used
+* HashMap
+
+## Project Summary
+* In this project , where visitor hit on url it's count increase by .So we find how many times visitor comes to url.
